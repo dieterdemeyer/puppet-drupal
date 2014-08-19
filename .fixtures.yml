@@ -1,0 +1,3 @@
+fixtures:
+  symlinks:
+    "drupal": "#{source_dir}"

@@ -1,0 +1,5 @@
+= puppet-drupal module
+
+{<img src='https://codex.cegeka.be/jenkins/job/puppet-drupal/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-drupal/]
+
+This is the drupal module.
